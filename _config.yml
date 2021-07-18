@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NDH"
+title                    : "github page is hot"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Horseman, not Bojack"
+name                     : "Nam Do Hyun"
 description              : "An amazing website."
 url                      : "https://horseman-97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
