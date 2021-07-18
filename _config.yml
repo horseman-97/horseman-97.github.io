@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "응애 나 아기컴공졸업반"
+title                    : "응애 나 아가컴공"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nam Do Hyun"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "noeyhod"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I wanna be **amazing** person."
-  location         : "Earth🌏"
+  bio              : "뭐해먹고 살지 모르겠는 졸업반."
+  location         : "Earth🌏, Somewhere in South Korea"
   email            :
   links:
     - label: "ndhyun3847@gmail.com"
