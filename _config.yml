@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "noeyhod"
-  avatar           : "![cute](https://user-images.githubusercontent.com/59239144/126058936-93d391d8-d15b-45fd-a27e-34b54c3e69e0.png)"
+  avatar           : "assets/images/profile.md"
   bio              : "컴공 졸업예정."
   location         : "Somewhere in Earth🌏"
   email            :
