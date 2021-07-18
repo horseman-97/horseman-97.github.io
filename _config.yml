@@ -105,6 +105,7 @@ author:
   avatar           : "/assets/images/ram.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "컴공 졸업예정."
   location         : "Somewhere in Earth🌏"
+  github           : "horseman-97"
   email            :
   links:
     - label: "ndhyun3847@gmail.com"
@@ -121,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/horseman-97"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
