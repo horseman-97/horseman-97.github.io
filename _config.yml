@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "noeyhod"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "뭐해먹고 살지 모르겠는 졸업반."
-  location         : "Earth🌏, Somewhere in South Korea"
+  bio              : "컴공 졸업예정."
+  location         : "Somewhere in Earth🌏"
   email            :
   links:
     - label: "ndhyun3847@gmail.com"
