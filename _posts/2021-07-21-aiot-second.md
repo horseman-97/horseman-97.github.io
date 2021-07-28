@@ -4,6 +4,8 @@ excerpt: Maixduino 개발환경 설정과 디지털 입출력
 
 categories: AIoT
 
+published: false
+
 tags:
  - [MicroPython, Microcontroller, LED, Button]
 

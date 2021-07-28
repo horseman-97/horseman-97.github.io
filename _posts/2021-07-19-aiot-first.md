@@ -4,6 +4,8 @@ excerpt: AIoT의 간단한 소개와 python 기초
 
 categories: AIoT
 
+published: false
+
 tags:
  - [Jupyter notebook, Python]
 
